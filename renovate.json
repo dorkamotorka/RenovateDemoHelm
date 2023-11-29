@@ -1,7 +1,2 @@
 {
-  "helm-values": {
-    "fileMatch": [
-      "helm/renovate.values.yaml"
-    ]
-  }
 }
