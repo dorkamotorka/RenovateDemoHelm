@@ -1,9 +1,0 @@
-{
-  "token": "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",
-  "repositories": ["dorkamotorka/RenovateDemoHelm"],
-  "helm-values": {
-    "fileMatch": [
-      "helm/renovate.values.yaml" // TODO: helm/*.values.y(a)ml
-    ],
-  },
-}
